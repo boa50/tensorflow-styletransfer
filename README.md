@@ -1,0 +1,1 @@
+Criação de projeto de style transfer com tensorflow baseado no tutorial: https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization
